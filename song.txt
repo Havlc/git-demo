@@ -1,2 +1,4 @@
 pierwszy wiersz piosenki
 drugi wiersz piosenki
+trzeci wiersz piosenki
+czwarty wiersz piosenki
