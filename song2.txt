@@ -2,3 +2,6 @@ This is a new song
 with no text in it
 but i firmly belive
 that it will be ok
+
+I'm changing one line
+in my song to check the effect
